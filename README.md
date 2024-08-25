@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinamra-21
-- 👀 I’m interested in programming , web-dev and cybersecurity
-- 🌱 I’m currently learning NextJs
+- 👀 I’m interested in programming and WebDev
+- 🌱 I’m currently learning BlockChain
 - 💞️ I’m looking to collaborate on any new technical project involving computers and electronics and for sure coding
 - 📫 How to reach me mail: gargvinamra21@gmail.com
 - ⚡ Fun fact: Botanically, bananas qualify as berries, while strawberries do not.
