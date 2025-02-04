@@ -12,24 +12,18 @@ Welcome to my little corner of the internet! 🚀 I'm a code-slinging, coffee-fu
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Vinamra-21&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinamra-21&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinamra-21&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Vinamra-21&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinamra-21&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
-
+-->
 ### 🌍 Connect with Me
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/vinamra-garg/)
-- **Gmail:** [Your Gmail](gargvinamra21@gmail.com)
+- **LinkedIn:** [vinamra-garg](https://www.linkedin.com/in/vinamra-garg/)
+- **Gmail:** [gargvinamra21@gmail.com](gargvinamra21@gmail.com)
 
 ---
 
