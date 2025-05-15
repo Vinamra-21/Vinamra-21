@@ -5,7 +5,7 @@ Welcome to my little corner of the internet! 🚀 I'm a code-slinging, coffee-fu
 ---
 
 ### 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, Next.js, React.js, Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, Next.js, React.js, Tailwind CSS,Streamlit
 - **Backend:** Firebase, Django, Flask, Node.js, Express.js
 - **Databases:** PostgreSQL, MongoDB, Firebase, Convex
 - **Other Tools:** Git, Docker, Clerk, Kaggle, Vercel,
