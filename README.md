@@ -22,7 +22,7 @@ Welcome to my little corner of the internet! 🚀 I'm a code-slinging, coffee-fu
 ---
 -->
 ### 🌍 Connect with Me
-- **Web:** [vinamra-garg](https://www.vinamra-garg.vercel.app)
+- **Web:** [vinamra-garg](https://vinamra-garg.vercel.app)
 - **LinkedIn:** [vinamra-garg](https://www.linkedin.com/in/vinamra-garg/)
 - **Gmail:** [gargvinamra21@gmail.com](gargvinamra21@gmail.com)
 
